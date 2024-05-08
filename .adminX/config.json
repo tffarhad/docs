@@ -1,0 +1,14 @@
+{
+  "media": {
+    "root": "api-reference/endpoint",
+    "public": "api-reference"
+  },
+  "content": {
+    "root": "images"
+  },
+  "themeConfig": [
+    "api-reference",
+    "api-reference/endpoint/create.mdx"
+  ],
+  "arrangement": {}
+}
